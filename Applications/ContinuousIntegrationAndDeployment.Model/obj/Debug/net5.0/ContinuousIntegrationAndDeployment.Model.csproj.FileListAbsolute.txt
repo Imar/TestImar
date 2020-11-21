@@ -1,0 +1,12 @@
+C:\Users\imar\source\repos\ContinuousIntegrationAndDeployment\Applications\ContinuousIntegrationAndDeployment.Model\bin\Debug\net5.0\ContinuousIntegrationAndDeployment.Model.deps.json
+C:\Users\imar\source\repos\ContinuousIntegrationAndDeployment\Applications\ContinuousIntegrationAndDeployment.Model\bin\Debug\net5.0\ContinuousIntegrationAndDeployment.Model.dll
+C:\Users\imar\source\repos\ContinuousIntegrationAndDeployment\Applications\ContinuousIntegrationAndDeployment.Model\bin\Debug\net5.0\ref\ContinuousIntegrationAndDeployment.Model.dll
+C:\Users\imar\source\repos\ContinuousIntegrationAndDeployment\Applications\ContinuousIntegrationAndDeployment.Model\bin\Debug\net5.0\ContinuousIntegrationAndDeployment.Model.pdb
+C:\Users\imar\source\repos\ContinuousIntegrationAndDeployment\Applications\ContinuousIntegrationAndDeployment.Model\obj\Debug\net5.0\ContinuousIntegrationAndDeployment.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imar\source\repos\ContinuousIntegrationAndDeployment\Applications\ContinuousIntegrationAndDeployment.Model\obj\Debug\net5.0\ContinuousIntegrationAndDeployment.Model.AssemblyInfoInputs.cache
+C:\Users\imar\source\repos\ContinuousIntegrationAndDeployment\Applications\ContinuousIntegrationAndDeployment.Model\obj\Debug\net5.0\ContinuousIntegrationAndDeployment.Model.AssemblyInfo.cs
+C:\Users\imar\source\repos\ContinuousIntegrationAndDeployment\Applications\ContinuousIntegrationAndDeployment.Model\obj\Debug\net5.0\ContinuousIntegrationAndDeployment.Model.csproj.CoreCompileInputs.cache
+C:\Users\imar\source\repos\ContinuousIntegrationAndDeployment\Applications\ContinuousIntegrationAndDeployment.Model\obj\Debug\net5.0\ContinuousIntegrationAndDeployment.Model.dll
+C:\Users\imar\source\repos\ContinuousIntegrationAndDeployment\Applications\ContinuousIntegrationAndDeployment.Model\obj\Debug\net5.0\ref\ContinuousIntegrationAndDeployment.Model.dll
+C:\Users\imar\source\repos\ContinuousIntegrationAndDeployment\Applications\ContinuousIntegrationAndDeployment.Model\obj\Debug\net5.0\ContinuousIntegrationAndDeployment.Model.pdb
+C:\Users\imar\source\repos\ContinuousIntegrationAndDeployment\Applications\ContinuousIntegrationAndDeployment.Model\obj\Debug\net5.0\ContinuousIntegrationAndDeployment.Model.csprojAssemblyReference.cache
